@@ -1,5 +1,5 @@
 {
-  "name": "blackkingdom",
+  "name": "sambot",
   "version": "0.16.5",
   "description": "BlackKingdom - Whatsapp userbot. ",
   "main": "./BlackKingdom/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blackkingdoms/blackkingdom.git"
+    "url": "git+https://github.com/blackpirateapps/blackkingdom.git"
   },
   "keywords": [
     "whatsapp"
