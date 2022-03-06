@@ -18,7 +18,7 @@ You will only generate a QR code with the first device.
 You need to install BlackKingdom Bot from the first device.
 ```
 #### Once you have the QR code, click on the button below to deploy Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackKingdoms/BlackKingdom)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blackpirateapps/BlackKingdom)
 
 
 <div align="center"><img src="https://profile-counter.glitch.me/BlackKingdoms/count.svg" /><br>Profile Viewers</div>
